@@ -1,4 +1,4 @@
-# 🎨 I Built This Amazing Color Swap Script Just for You! 🖌️
+# 🎨 I Built This Color Swap Script for You! 🖌️
 I'm thrilled to share with you my latest creation, an incredible Color Swap script that will revolutionize the way you enhance your images. As a passionate developer in the domain, I wanted to create a tool that not only brings out the artist in you but also simplifies the process. 🌈💡
 
 ## 🔧 Overview:
